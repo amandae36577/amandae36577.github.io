@@ -1,3 +1,6 @@
+# My Changes
+I only made changes to the index.html file. The origonal website layout is below if you would like to compare. I created a wedsite to give easy access and understanding for each of my projects.
+
 # [Start Bootstrap - Shop Homepage](https://startbootstrap.com/template-overviews/shop-homepage/)
 
 [Shop Homepage](http://startbootstrap.com/template-overviews/shop-homepage/) is a basic HTML online store homepage template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
